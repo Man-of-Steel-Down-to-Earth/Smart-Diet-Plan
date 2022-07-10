@@ -1,1 +1,3 @@
-# Smart-Diet-Plan
+# Varied-diet
+Diet planning software
+Random shuffle
